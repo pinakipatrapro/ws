@@ -1,0 +1,19 @@
+{
+  "name": "wst2",
+  "version": "1.0.0",
+  "description": "Node Websocket implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "websocket",
+    "pinaki"
+  ],
+  "author": "Pinaki Patra",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
